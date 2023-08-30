@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back-Assist.Api", "Back-Assist.Api\Back-Assist.Api.csproj", "{14334774-2585-4B1A-8FB6-9E8A8DE097FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back-Assist.Data", "Back-Assist.Data\Back-Assist.Data.csproj", "{C3B18264-CC0C-42B4-9EFA-F96605FCEA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14334774-2585-4B1A-8FB6-9E8A8DE097FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14334774-2585-4B1A-8FB6-9E8A8DE097FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14334774-2585-4B1A-8FB6-9E8A8DE097FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14334774-2585-4B1A-8FB6-9E8A8DE097FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B18264-CC0C-42B4-9EFA-F96605FCEA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B18264-CC0C-42B4-9EFA-F96605FCEA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B18264-CC0C-42B4-9EFA-F96605FCEA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B18264-CC0C-42B4-9EFA-F96605FCEA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {321CB534-A409-49F1-8B4E-6437A2EED238}
+	EndGlobalSection
+EndGlobal
