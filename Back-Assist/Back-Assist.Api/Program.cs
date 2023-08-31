@@ -64,7 +64,7 @@ builder.Services.AddDbContext<Context>(options =>
 
 var app = builder.Build();
 
-// Dependency Injection and migration configure Database
+// Dependency Injection and migration configure Databae
 //using (var scope = app.Services.CreateScope())
 //{
 //    var dataContext = scope.ServiceProvider.GetRequiredService<Context>();
